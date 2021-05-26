@@ -1,0 +1,10 @@
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\bin\Debug\timer20210418_2.exe.config
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\bin\Debug\timer20210418_2.exe
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\bin\Debug\timer20210418_2.pdb
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.Form1.resources
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.Properties.Resources.resources
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.csproj.GenerateResource.cache
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.csproj.CoreCompileInputs.cache
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.exe
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.pdb
+C:\Users\Toshiaki Okano\OneDrive\Documents\キーエンス\cSharp\timer20210418_2\timer20210418_2\obj\Debug\timer20210418_2.csprojAssemblyReference.cache
